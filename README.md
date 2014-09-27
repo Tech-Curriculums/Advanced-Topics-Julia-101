@@ -10,11 +10,7 @@ Parse your data quickly and efficiently -- without breaking your bank.
 
 ## Intro
 
-<<<<<<< HEAD
 ![img](./.img/01_Julia_Terminal.png)
-=======
-[!img](./.img/01_Julia_Terminal.png)
->>>>>>> ccb2c85235b0361cb90562c9970b0b84fd5a2e88
 
 After downloading and opening Julia (which begins in a terminal), get your hello world started up:
 
