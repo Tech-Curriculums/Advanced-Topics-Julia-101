@@ -15,7 +15,7 @@ Parse your data quickly and efficiently -- without breaking your bank.
 After downloading and opening Julia (which begins in a terminal), get your hello world started up:
 
 ```julia
-println("Hello Julia")
+println("hello julia")
 ```
 
 Notice like python there is no `;`
