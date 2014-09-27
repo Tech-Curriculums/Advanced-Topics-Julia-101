@@ -8,7 +8,7 @@ Parse your data quickly and efficiently -- without breaking your bank.
 
 -- [the Julia website](http://julialang.org/)
 
-## Saying Hello To Julia
+## Hello World
 
 ![img](./.img/01_Julia_Terminal.png)
 
