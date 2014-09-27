@@ -23,6 +23,4 @@ Notice like python there is no `;`
 ## References
 
 
-An IDE which we will be using to start:
-
-* http://junolab.org/
+(currently looking for core references as well as further reading)
