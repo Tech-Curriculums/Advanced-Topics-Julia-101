@@ -8,11 +8,19 @@ Parse your data quickly and efficiently -- without breaking your bank.
 
 -- the Julia docs
 
+## Intro
 
+![img](./.img/01_Julia_Terminal.png)
 
+After downloading and opening Julia (which begins in a terminal), get your hello world started up:
 
+```julia
+println("Hello Julia")
+```
 
-# References
+Notice like python there is no `;`
+
+## References
 
 
 An IDE which we will be using to start:
