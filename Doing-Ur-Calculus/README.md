@@ -3,7 +3,7 @@
 
 # TODO
 
-* [ ] Meme Banner -- I'm in your computer doing your calculus
+* [x] Meme Banner -- I'm in your computer doing your calculus
 
 
 <p align="center">
