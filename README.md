@@ -6,7 +6,7 @@ Parse your data quickly and efficiently -- without breaking your bank.
 
 > "Julia is a high-level, high-performance dynamic programming language for technical computing" 
 
--- [the Julia docs](http://julialang.org/)
+-- [the Julia website](http://julialang.org/)
 
 ## Intro
 
