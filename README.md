@@ -22,5 +22,4 @@ Notice like python there is no `;`
 
 ## References
 
-
-(currently looking for core references as well as further reading)
+* http://en.wikipedia.org/wiki/Julia_(programming_language)
